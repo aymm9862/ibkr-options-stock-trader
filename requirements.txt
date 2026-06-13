@@ -1,0 +1,8 @@
+# IBKR Options & Stock Click Trader — Python dependencies
+# Install with:  pip install -r requirements.txt
+
+PyQt5>=5.15            # GUI framework
+ibapi==9.81.1          # Interactive Brokers TWS API (official, PyPI latest)
+psutil>=5.9            # Detect/kill previous instances (frees TWS clientId)
+numpy>=1.24            # Chart math (moving averages, VWAP)
+pyqtgraph>=0.13        # K-line / candlestick chart rendering
